@@ -1,4 +1,4 @@
-# ------------------- Stage 1: Build Stage ------------------------------
+
 FROM python:3.9 AS backend-builder
 
 # Set the working directory to /app
